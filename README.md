@@ -9,4 +9,5 @@ Train the model using YOLOv5 and save the best.pt weight and add it to the folde
 
 Flask provides connection between the front-end and the model.
 
-Run using "python app.py" aand view results in localhost:5000
+Run using python app.py command and view results in localhost:5000
+Deployed using AWS 
